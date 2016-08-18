@@ -1,0 +1,17 @@
+{
+    "name": "armata-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Viktoriya Grabowska"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/armata-bower.git"
+    },
+    "description": "Armata font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
